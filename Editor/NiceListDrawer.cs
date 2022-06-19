@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEditorInternal;
 using UnityEngine;
 
-namespace sapra.HelperMethods.Editor
+namespace sapra.HelperMethods
 { 
     public abstract class NiceListDrawer : PropertyDrawer
     {

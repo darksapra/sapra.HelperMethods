@@ -5,7 +5,7 @@ using System.Reflection;
 using System;
 using System.Text.RegularExpressions;
 
-namespace sapra.HelperMethods.Editor
+namespace sapra.HelperMethods
 {
     public static class Extensors
     {
