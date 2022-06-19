@@ -1,0 +1,17 @@
+{
+  "name": "com.sapra.helper-methods",
+  "version": "0.0.1",
+  "displayName": "Helper Methods",
+  "description": "A collection of diferent Useful Methods",
+  "unity": "2019.1",
+  "keywords": [
+    "animator",
+    "parameters",
+    "easy",
+    "inspector"
+  ],
+  "author": {
+    "name": "Sapra",
+    "url": "https://github.com/darksapra"
+  }
+}
